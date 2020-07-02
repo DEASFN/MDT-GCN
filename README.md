@@ -20,10 +20,10 @@ Proposed Model | Baseline[2]
 ![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/proposed_model.gif)|![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/baseline.gif)
 
 Proposed Model |
- --- |
+---|
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/MDTGCN.png)|
-Person in wifi[2] |
- --- |
+Person in wifi[2]|
+---|
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/person%20in%20wifi.png)|
 WiSPPN[1]|
 --- |
