@@ -10,7 +10,7 @@
 * [Result](#result)
 
 ## Architecture
-![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/Architecture.png)
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/Architecture.png)
 
 ## Visulization
 Our demo for wifi based 2D human pose estimation
@@ -20,7 +20,7 @@ Proposed Model | Baseline[2]
 ![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/proposed_model.gif)|![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/baseline.gif)
 
 
-![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/result.png)
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/MDTGCN.png)
 
 ## Result
 The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
