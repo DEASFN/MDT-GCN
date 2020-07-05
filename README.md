@@ -30,7 +30,7 @@ P2 | multi-people | https://reurl.cc/4RVQ7V
 ## Visulization
 Our demo for wifi based 2D human pose estimation
 
-Proposed Model | Baseline[2]
+Proposed Model | Person-in-WiFi[2]
 ---|---
 ![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/proposed_model.gif)|![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/baseline.gif)
 
