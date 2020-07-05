@@ -41,7 +41,7 @@ Proposed Model
 ----
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/MDTGCN.png)
 
-Person in wifi[2]
+Person-in-WiFi[2]
 ---
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/person%20in%20wifi.png)
 
