@@ -36,10 +36,9 @@ Proposed Model | Person-in-WiFi[2]
 
 Demo
 ----
-single-person
-![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo1.png)
-
 multi-people
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo1.png)
+single-person
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo2.png)
 
 
