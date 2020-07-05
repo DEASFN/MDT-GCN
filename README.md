@@ -56,16 +56,17 @@ The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
 |Method|single-person|multi-people|                       
 | :------| :------: | :------: |
 |WiSPPN[1]|  69.82%    | X   |
-|person in Wifi[2] | 77.06% | 61.58%|
+|Person-in-WiFi[2] | 77.06% | 61.58%|
 |**MDT-GCN(ours)**|**82.26%**|**71.58%**|
 
 |Method|through-wall|
 | :------| :------: |
 |WiSPPN[1]|  58.86%    |
-|person in Wifi[2] | 73.67%|
+|Person-in-WiFi[2] | 73.67%|
 |**MDT-GCN(ours)**|**80.72**%|
 
-|labled Ground Truth|Camera-based(Openpose)|
+Gaps between Person-in-WiFi (Trained on annotations of camera-based approaches) and camera-based approaches.
+|Camera-based(Openpose)|Person-in-WiFi[2]|
 | :------:| :------: |
 |**100**%|**77.55**%|
 
