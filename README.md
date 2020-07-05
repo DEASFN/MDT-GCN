@@ -34,23 +34,10 @@ Proposed Model | Person-in-WiFi[2]
 ---|---
 ![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/proposed_model.gif)|![image](https://github.com/fingerk28/MDT-GCN/blob/master/img/baseline.gif)
 
-
-
-Proposed Model
+Demo
 ----
-![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/MDTGCN.png)
-
-Person-in-WiFi[2]
----
-![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/person%20in%20wifi.png)
-
-WiSPPN[1]
----
-![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/WiSPPN.png)
-
-Gap between Camera-based(Openpose) and Labeld Ground Truth
----
-![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/labeled_GT.png)
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo1.png)
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo2.png)
 
 
 ## Result
