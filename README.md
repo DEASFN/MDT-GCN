@@ -67,7 +67,7 @@ The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
 |Person-in-WiFi[2] | 73.67%|
 |**MDT-GCN(ours)**|**80.72**%|
 
-Gaps between Person-in-WiFi (Trained on annotations of camera-based approaches) and camera-based approaches.
+Gaps between Person-in-WiFi (Trained on annotations of camera-based approaches) and camera-based approaches.(Ramdomly sample 100 examples)
 |Camera-based(Openpose)|Person-in-WiFi[2]|
 | :------:| :------: |
 |**100**%|**77.55**%|
