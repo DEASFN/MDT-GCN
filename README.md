@@ -65,8 +65,8 @@ The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
 |person in Wifi[2] | 73.67%|
 |**MDT-GCN(ours)**|**80.72**%|
 
-|labled GT|camera-based(Openpose)|
-| :------| :------: |
+|labled Ground Truth|Camera-based(Openpose)|
+| :------:| :------: |
 |**100**%|**77.55**%|
 
 [1] Fei Wang, Stanislav Panev, Ziyi Dai, Jinsong Han, and Dong Huang. 2019. Canwifi estimate person pose?arXiv preprint arXiv:1904.00277(2019).
