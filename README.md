@@ -41,6 +41,9 @@ multi-people
 single-person
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo2.png)
 
+Gap between Camera-based(Openpose) and Labeld Ground Truth.(Ramdomly sample 100 examples)
+---
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/labeled_GT.png)
 
 ## Result
 The PCK@20(Percentage of Correct Keypoint)of provided models are shown here:
