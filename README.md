@@ -49,6 +49,9 @@ WiSPPN[1]
 ---
 ![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/WiSPPN.png)
 
+Gap between Camera-based(Openpose) and Labeld Ground Truth
+---
+![image](https://github.com/Multi-rate-Directed-T-GCN/MDT-GCN/blob/master/pic/demo_gap.png)
 
 
 ## Result
